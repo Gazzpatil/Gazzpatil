@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gajanand patil</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW11bGhkNzdlYXRtZ28xZW81NXp5cmJqcTRpeTN3eDUzN2tra2YydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
-
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW11bGhkNzdlYXRtZ28xZW81NXp5cmJqcTRpeTN3eDUzN2tra2YydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazzpatil&label=Profile%20views&color=0e75b6&style=flat" alt="gazzpatil" /> </p>
+
+<p align="left"> <a href="https://twitter.com/gajanand_patil" target="blank"><img src="https://img.shields.io/twitter/follow/gajanand_patil?logo=twitter&style=for-the-badge" alt="gajanand_patil" /></a> </p>
 
 - 🔭 I’m currently Learning **JavaScript,Courses etc.**
 
@@ -20,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/gajanand_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gajanand_patil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gajanand patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajanand patil" height="30" width="40" /></a>
 <a href="https://instagram.com/gajanand_4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gajanand_4u" height="30" width="40" /></a>
 <a href="https://medium.com/@gajanandpatil2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gajanandpatil2007" height="30" width="40" /></a>
@@ -38,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gazzpatil&show_icons=true&locale=en" alt="gazzpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazzpatil&" alt="gazzpatil" /></p>
+
+
