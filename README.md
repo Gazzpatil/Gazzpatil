@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gajanand_patil" target="blank"><img src="https://img.shields.io/twitter/follow/gajanand_patil?logo=twitter&style=for-the-badge" alt="gajanand_patil" /></a> </p>
 
-- 🔭 I’m currently Learning **Spring Security, Hosting  etc.**
+- 🔭 I’m currently Learning **Spring Security, ReactJs  etc.**
 
 - 📝 I regularly write articles on [https://medium.com/@gajanandpatil2007](https://medium.com/@gajanandpatil2007)
 
